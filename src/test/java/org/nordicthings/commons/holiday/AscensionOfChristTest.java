@@ -1,10 +1,6 @@
 package org.nordicthings.commons.holiday;
 
 import org.junit.jupiter.api.Test;
-import org.nordicthings.commons.holiday.AdministrativeArea;
-import org.nordicthings.commons.holiday.AscensionOfChrist;
-import org.nordicthings.commons.holiday.Holiday;
-import org.nordicthings.commons.holiday.HolidayException;
 
 import java.time.LocalDate;
 
